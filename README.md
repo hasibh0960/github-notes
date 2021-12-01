@@ -1,5 +1,5 @@
 # github-notes
-##github notes
+## github notes
 Git
 Github
 Repo
